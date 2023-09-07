@@ -24,6 +24,10 @@ You can check out the live demo of the Mini Calendar [here](https://22pankajsahu
 
 Included relevant screenshots of the application here.
 
+![Screenshot 2023-09-07 ](https://github.com/22pankajsahu/m6Day13HomeWorkChallenge/assets/135128502/a7ff0750-982f-4701-9512-64570f8cc4aa)
+
+![Screenshot 2023-09-07  2](https://github.com/22pankajsahu/m6Day13HomeWorkChallenge/assets/135128502/49258dbb-9052-44bf-b75a-eec3d7a74974)
+
 ## Features
 
 - Displays the current month, day, date, and year.
